@@ -41,7 +41,7 @@ Parameters of choosing roboic arm :
                                                             
 Robotic arm works as multi hand tasking machine which is integrated with the programmable logic circuit & SCADA which recives the command sent by assigned work in teach pendent by robotic engineers.
 
-There is a methodologies to assigh the points (we call it as target) , by building the target and retracts we can operate the robotic arm with continous automation without even touching.
+There is a methodologies to assign the points (we call it as target) , by building the target and retracts we can operate the robotic arm with continous automation without even touching.
 
 
 Robotic arm is a best example and best priority giving technology for Human - robot interaction methods.
