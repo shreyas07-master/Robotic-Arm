@@ -17,14 +17,23 @@ Parameters of choosing roboic arm :
 
 
 1.High quality and design aesthetic
+
 2.High efficiency
+
 3.Improved accuracy
+
 4.Better precision
+
 5.constant repeatability 
+
 6.dexterity 
+
 7.Advanced sensor,actuatords,microcontroller, and other good electronics.
+
 8.size and shape aesthetic
+
 9.working type mechanism with different end effector
+
 10.cost and investment
 
 ![image](https://github.com/user-attachments/assets/3c03c91d-cccb-49d7-98e6-4699a96a64da)
@@ -39,9 +48,12 @@ Robotic arm is a best example and best priority giving technology for Human - ro
 
 
 There are the seveal factor which every industrialist and roboticist think about the robotic arm : 
+
+
 a.safety measurments
 
-b.space requirments                                                       
+b.space requirments        
+
 c.software and data processing acquisition 
 
 d.task deployment about to perfect performance
@@ -72,7 +84,8 @@ Key advantages of using robotic arm:
 
 
 
-Application of robotic arm:                                
+Application of robotic arm:  
+
  1.Manufacturing industry           - welding, painting, drilling, spraying, screwing   
 
 ![image](https://github.com/user-attachments/assets/46b9565d-cc68-411a-b627-d571079dfbb5) 
