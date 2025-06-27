@@ -84,6 +84,8 @@ Factors & measurments for implementation of robotic arm:
 
 
 
+
+
 The most requirable parameters for every robotic arm operator and industry
 
 Key advantages of using robotic arm: 
