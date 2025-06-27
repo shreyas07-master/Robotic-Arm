@@ -41,8 +41,10 @@ Parameters of choosing roboic arm :
                                                             
 Robotic arm works as multi hand tasking machine which is integrated with the programmable logic circuit & SCADA which recives the command sent by assigned work in teach pendent by robotic engineers.
 
+There is a methodologies to assigh the points (we call it as target) , by building the target and retracts we can operate the robotic arm with continous automation without even touching.
 
-Robotic arm is a best example and best priority giving technology for Human - robot interaction methods.\
+
+Robotic arm is a best example and best priority giving technology for Human - robot interaction methods.
 
 ![image](https://github.com/user-attachments/assets/846b7016-28cc-45db-88bf-987b0b68ef44)
 
@@ -61,15 +63,23 @@ d.task deployment about to perfect performance
 e.human interaction safety.    
 
 
+Implementation of robotic arm in particular area is a task which is benefial for work done by assigning some area and circumstances , this will reduce the burden of installation of mass robotic arm by risking the installation shortage, gaps.
+
+
 Factors & measurments for implementation of robotic arm:  
-                                                           1.Application and usecase
-                                                           2.Quailty management 
-                                                           3.High precision & continous workings 
-                                                           4.Certified international standardS 
-                                                           5.Precision & repeatability
+
+1.Application and usecase
+
+2.Quailty management 
+
+3.High precision & continous workings 
+
+4.Certified international standards
+
+5.Precision & repeatability
 
 
-
+The most requirable parameters for every robotic arm operator and industry
 Key advantages of using robotic arm: 
 
 1.High efficiency and accuracy than traditional method
