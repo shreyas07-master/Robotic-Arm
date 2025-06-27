@@ -49,6 +49,8 @@ Robotic arm is a best example and best priority giving technology for Human - ro
 ![image](https://github.com/user-attachments/assets/846b7016-28cc-45db-88bf-987b0b68ef44)
 
 
+
+
 There are the seveal factor which every industrialist and roboticist think about the robotic arm : 
 
 
@@ -66,6 +68,8 @@ e.human interaction safety.
 Implementation of robotic arm in particular area is a task which is benefial for work done by assigning some area and circumstances , this will reduce the burden of installation of mass robotic arm by risking the installation shortage, gaps.
 
 
+
+
 Factors & measurments for implementation of robotic arm:  
 
 1.Application and usecase
@@ -79,7 +83,9 @@ Factors & measurments for implementation of robotic arm:
 5.Precision & repeatability
 
 
+
 The most requirable parameters for every robotic arm operator and industry
+
 Key advantages of using robotic arm: 
 
 1.High efficiency and accuracy than traditional method
@@ -91,6 +97,7 @@ Key advantages of using robotic arm:
 4.24/7 operation 
 
 5.Programmability and flexibility   
+
 
 
 
