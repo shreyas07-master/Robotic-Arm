@@ -1,13 +1,21 @@
 # Robotic-Arm
 Role of robotic arm in robotic & automation.
+
+
 Robotic arm is an fascinating, emerging, familiar technological equipment which plays crucial role in performing the indusrtrial function accurately and perfect outline measurements
+
+
 It is a versatile device which is implemented to perform heavy load lifing and palletizing capablilties application.
+
+
 It is best important procession comes with HRI ( Human-Robot interaction ) with excellent electronics & software working platforms.
 
 
   ![image](https://github.com/user-attachments/assets/03f27497-e21c-401a-b3ec-b8695f1a4e7d)
 
-Parameters of choosing roboic arm :                        
+Parameters of choosing roboic arm : 
+
+
 1.High quality and design aesthetic
 2.High efficiency
 3.Improved accuracy
@@ -32,10 +40,14 @@ Robotic arm is a best example and best priority giving technology for Human - ro
 
 There are the seveal factor which every industrialist and roboticist think about the robotic arm : 
 a.safety measurments
+
 b.space requirments                                                       
 c.software and data processing acquisition 
+
 d.task deployment about to perfect performance
+
 e.human interaction safety.    
+
 
 Factors & measurments for implementation of robotic arm:  
                                                            1.Application and usecase
@@ -44,13 +56,22 @@ Factors & measurments for implementation of robotic arm:
                                                            4.Certified international standardS 
                                                            5.Precision & repeatability
 
+
+
 Key advantages of using robotic arm: 
 
 1.High efficiency and accuracy than traditional method
+
 2.Improved focus and repeatability 
+
 3.Reduced human risk
+
 4.24/7 operation 
-5.Programmability and flexibility                                    
+
+5.Programmability and flexibility   
+
+
+
 Application of robotic arm:                                
  1.Manufacturing industry           - welding, painting, drilling, spraying, screwing   
 
